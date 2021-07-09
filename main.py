@@ -65,5 +65,5 @@ async def plot(ctx,par):
 
 
 bot.run('your token')
-# Code by Ratchanon
+# Code by Ratchanon Promsombut
 
